@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Vineet Tomat
+- 👋 Hi, I’m Vineet Tomar
+- 📫 I am final year student of Delhi Technological University M.Tech Computer Science(AI)
 - 👀 I’m interested in Software Development and Software Engineer roles
 - 🌱 I currently have in-depth knowledge of Data Structures and Algorithms
 - 💞️ I’m working on my Full stack web development skills
